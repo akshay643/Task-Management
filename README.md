@@ -69,3 +69,11 @@ Utilized local state to manage task data.
 
 # Acknowledgments
 * Special thanks to the creators of react-beautiful-dnd for providing a fantastic drag-and-drop library.
+# Screenshots
+
+[![Screenshot-2023-12-22-115351.png](https://i.postimg.cc/1XJYyWtQ/Screenshot-2023-12-22-115351.png)](https://postimg.cc/JHHQq5Z6)
+
+
+[![Screenshot-2023-12-22-115457.png](https://i.postimg.cc/5NrnpQQn/Screenshot-2023-12-22-115457.png)](https://postimg.cc/hf9Ltjrd)
+
+[![Screenshot-2023-12-22-115528.png](https://i.postimg.cc/FFWZskpN/Screenshot-2023-12-22-115528.png)](https://postimg.cc/c63YFHPb)
