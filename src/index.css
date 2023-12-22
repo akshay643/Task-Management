@@ -13,6 +13,8 @@
 
 .task-list-container {
   display: flex;
+  text-align: center;
+  text: white;
   width: 33%;
 }
 

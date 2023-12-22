@@ -5,7 +5,7 @@ import { Draggable } from "react-beautiful-dnd";
 const TaskItem = ({ task, index }) => {
   const getItemStyle = (isDragging, draggableStyle) => ({
     // change background colour if dragging
-    background: isDragging ? "lightgreen" : "grey",
+    background: isDragging ? "lightgreen" : "lightgrey",
     transition: isDragging ? "background 0.3s ease" : "none",
 
     // styles we need to apply on draggables
